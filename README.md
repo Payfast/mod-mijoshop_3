@@ -18,9 +18,9 @@ INTEGRATION:
 - Password: clientpass
 
 ******************************************************************************
-*                                                                            *
-*    Please see the URL below for all information concerning this module:    *
-*                                                                            *
-*            https://www.payfast.co.za/shopping-carts/mijoshop/              *
-*                                                                            *
+
+    Please see the URL below for all information concerning this module:
+
+            https://www.payfast.co.za/shopping-carts/mijoshop/
+
 ******************************************************************************
